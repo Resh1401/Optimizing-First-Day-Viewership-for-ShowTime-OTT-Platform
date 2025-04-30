@@ -1,6 +1,6 @@
 # Optimizing First Day Viewership for ShowTime OTT Platform
 
-![image](https://github.com/user-attachments/assets/4de663e9-b99d-4238-9937-77cce7dccc0d)
+![image](https://github.com/user-attachments/assets/bc5a1bd1-e7b3-4863-960d-0bcf0a152a44)
 
 1.	Project Background
 
