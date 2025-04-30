@@ -11,8 +11,8 @@ Presently, OTT services are at a relatively nascent stage and are widely accepte
 The global OTT market size was valued at $121.61 billion 2019 and is projected to reach $1,039.03 billion by 2027, growing at a CAGR of 29.4% from 2020 to 2027. The shift from television to OTT services for entertainment is driven by benefits such as on-demand services, ease of access, and access to better networks and digital connectivity.
 
 With the outbreak of COVID19, OTT services are striving to meet the growing entertainment appetite of viewers, with some platforms already experiencing a 46% increase in consumption and subscriber count as viewers seek fresh content. With innovations and advanced transformations, which will enable the customers to access everything they want in a single space, OTT platforms across the world are expected to increasingly attract subscribers on a concurrent basis.
- 
-2.	Objective
+
+2. Objective
 
 ShowTime is an OTT service provider that offers a wide variety of content including movies and web shows for its users. The primary reasons for the decline in viewership of content would be the decline in the number of people coming to the platform, decreased marketing spend, content timing clashes, weekends and holidays. 
 
